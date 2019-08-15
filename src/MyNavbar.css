@@ -1,0 +1,14 @@
+.navbar { 
+  background-color: #990000!important; 
+  color: #FFC72C;
+}
+.navbar .navbar-brand {
+  color: #eee;
+}
+
+.navbar-brand span {
+  padding-left: 20px;
+}
+.navbar-light .navbar-nav .nav-link {
+  color: #eee;
+}
